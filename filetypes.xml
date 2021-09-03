@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="style.css" type="AUTO_DETECTED" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="2" type="PHP" />
       <mapping ext="sock" type="PLAIN_TEXT" />
       <mapping ext="-php" type="XHTML" />
