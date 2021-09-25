@@ -4,7 +4,7 @@
       <webServer id="7548104c-20a2-4d0c-ac0d-1d7d5e908f1f" name="kssk" url="http://152.89.217.159">
         <fileTransfer rootFolder="/www/kvartiry.kssk.ru/" host="152.89.217.159" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
