@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="/usr/bin/npm" />
+    <option name="myShellPath" value="/usr/bin/xterm" />
     <option name="mySoundBell" value="false" />
     <option name="myTabName" value="bash" />
   </component>
