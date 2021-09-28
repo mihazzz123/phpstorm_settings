@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="652469bb-e67e-4a52-b97b-eeac883f0f62" name="mihazzzoldVPS">
-        <fileTransfer accessType="SFTP" host="31.31.201.195" port="22" sshConfigId="60b41a7b-7716-4d20-8dfb-d53fab4d031d" sshConfig="mihazzzoldVPS">
+        <fileTransfer rootFolder="/var/www/fastuser/data/www" accessType="SFTP" host="31.31.201.195" port="22" sshConfigId="60b41a7b-7716-4d20-8dfb-d53fab4d031d" sshConfig="mihazzzoldVPS">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
