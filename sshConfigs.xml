@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="194.67.116.98" id="60b41a7b-7716-4d20-8dfb-d53fab4d031d" port="22" customName="mihazzzoldVPS" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" host="31.31.201.195" id="60b41a7b-7716-4d20-8dfb-d53fab4d031d" port="22" customName="mihazzzoldVPS" nameFormat="CUSTOM" username="root">
         <option name="customName" value="mihazzzoldVPS" />
       </sshConfig>
     </configs>

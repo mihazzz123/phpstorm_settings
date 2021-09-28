@@ -4,7 +4,7 @@
       <webServer id="7548104c-20a2-4d0c-ac0d-1d7d5e908f1f" name="kssk" url="http://152.89.217.159">
         <fileTransfer rootFolder="/www/kvartiry.kssk.ru/" host="152.89.217.159" port="21">
           <advancedOptions>
-            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
@@ -58,9 +58,9 @@
         </fileTransfer>
       </webServer>
       <webServer id="652469bb-e67e-4a52-b97b-eeac883f0f62" name="mihazzzoldVPS">
-        <fileTransfer rootFolder="/var/www/mihazzzold-dev.site/data/www/mihazzzold-dev.site" accessType="SFTP" host="194.67.116.98" port="22" sshConfigId="60b41a7b-7716-4d20-8dfb-d53fab4d031d" sshConfig="mihazzzoldVPS">
+        <fileTransfer rootFolder="/var/www/mihazzzold-dev.site/data/www/mihazzzold-dev.site" accessType="SFTP" host="31.31.201.195" port="22" sshConfigId="60b41a7b-7716-4d20-8dfb-d53fab4d031d" sshConfig="mihazzzoldVPS">
           <advancedOptions>
-            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
