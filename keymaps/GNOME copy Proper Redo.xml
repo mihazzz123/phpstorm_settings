@@ -31,6 +31,10 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="PopupHector">
+    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll" />
   <action id="SelectNextOccurrence">
