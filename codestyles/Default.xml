@@ -56,7 +56,6 @@
     <option name="SPACES_WITHIN_SHORT_ECHO_TAGS" value="false" />
     <option name="SPACE_BEFORE_SHORT_CLOSURE_LEFT_PARENTHESIS" value="true" />
     <option name="NEW_LINE_AFTER_PHP_OPENING_TAG" value="true" />
-    <option name="SPACES_AROUND_ARROW" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
     <option name="MULTILINE_CHAINED_CALLS_SEMICOLON_ON_NEW_LINE" value="true" />
   </PHPCodeStyleSettings>
