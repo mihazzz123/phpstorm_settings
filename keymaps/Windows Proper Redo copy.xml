@@ -1,0 +1,29 @@
+<keymap version="1" name="Windows Proper Redo copy" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine" />
+  <action id="EditorDuplicate" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAll" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="WD.UploadCurrentRemoteFileAction">
+    <keyboard-shortcut first-keystroke="shift alt q" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+</keymap>

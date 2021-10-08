@@ -1,0 +1,19 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="premium" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="tabsHeight" value="42" />
+    <option name="accentColor" value="d33682" />
+    <option name="selectedTheme" value="SOLARIZED_DARK" />
+    <option name="userId" value="-f3fad00:17baa458e5f:-7fc5" />
+    <option name="version" value="6.9.0" />
+    <option name="stripedToolWindowsEnabled" value="true" />
+  </component>
+</application>
