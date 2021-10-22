@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn" />
     <extensionMap>
+      <mapping pattern=".bablerc" type="ECMAScript 6" />
       <mapping ext="2" type="PHP" />
       <mapping ext="sock" type="PLAIN_TEXT" />
       <mapping ext="-php" type="XHTML" />
