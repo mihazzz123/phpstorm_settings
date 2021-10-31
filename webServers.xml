@@ -44,7 +44,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="e92dd7da-63f6-44aa-a6b7-675961a49c73" name="fakroshop">
-        <fileTransfer rootFolder="/var" accessType="SFTP" host="fakro.myjino.ru" port="22" sshConfigId="8a0dae14-dfb0-4d93-9da4-2b3ccaa05cb2" sshConfig="fakro" authAgent="true">
+        <fileTransfer rootFolder="/home/users/f/fakro/domains/fakroshop.ru" accessType="SFTP" host="fakro.myjino.ru" port="22" sshConfigId="8a0dae14-dfb0-4d93-9da4-2b3ccaa05cb2" sshConfig="fakro" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
