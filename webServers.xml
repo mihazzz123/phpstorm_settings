@@ -64,6 +64,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="6ab2d6dd-7cf6-4906-a717-dfa90f292651" name="migansa.dimark.team" url="http://ftp.dimark.team">
+        <fileTransfer host="ftp.dimark.team" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
