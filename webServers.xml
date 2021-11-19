@@ -78,6 +78,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="6eb644bb-c026-42ba-bbcd-2fe8a2873025" name="printwall.by" url="http://93.125.18.219">
+        <fileTransfer rootFolder="/www/printwall.by" host="93.125.18.219" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
