@@ -71,6 +71,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="1591f036-0591-490e-a340-1d3f8be6a5d7" name="romadaplius.lt" url="http://45.142.213.135">
+        <fileTransfer rootFolder="/romadaplius.lt" host="45.142.213.135" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
