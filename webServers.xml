@@ -15,41 +15,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="3f1655e7-a572-49e2-9f37-2614b7e5b5a9" name="chaturanga.yoga" url="http://ftp.h010435576.nichost.ru">
-        <fileTransfer host="ftp.h010435576.nichost.ru" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="58df5316-2c0e-4297-a6c2-60cb7a8c252e" name="TESTchaturanga.yoga">
-        <fileTransfer rootFolder="/home/bitrix/ext_www" accessType="SFTP" host="92.255.76.6" port="22" sshConfigId="00248d43-683a-44a1-a2ba-9953c0965525" sshConfig="juzt.studio">
-          <advancedOptions>
-            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="afa8c6c6-2e94-4307-909c-09fe5b0d890e" name="sign365.ru" url="http://ftp.u0726743.cp.regruhosting.ru">
-        <fileTransfer rootFolder="/sign365.ru" host="ftp.u0726743.cp.regruhosting.ru" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="8d0033fa-829b-4f7a-ab18-0f66c63e878e" name="b8agency.com" url="http://sftp.wp.com">
-        <fileTransfer accessType="SFTP" host="sftp.wp.com" port="22" sshConfigId="45333f97-7c87-4946-915c-2a6a821778b2" sshConfig="b8agency.com">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="e92dd7da-63f6-44aa-a6b7-675961a49c73" name="fakroshop">
-        <fileTransfer rootFolder="/home/users/f/fakro/domains/fakroshop.ru" accessType="SFTP" host="fakro.myjino.ru" port="22" sshConfigId="8a0dae14-dfb0-4d93-9da4-2b3ccaa05cb2" sshConfig="fakro" authAgent="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="9360bd4c-4e14-4626-99be-4c7e1217a008" name="mihazzzold" url="http://94.130.167.163">
         <fileTransfer host="94.130.167.163" port="21">
           <advancedOptions>
@@ -64,22 +29,15 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="6ab2d6dd-7cf6-4906-a717-dfa90f292651" name="migansa.dimark.team" url="http://ftp.dimark.team">
-        <fileTransfer host="ftp.dimark.team" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="1591f036-0591-490e-a340-1d3f8be6a5d7" name="romadaplius.lt" url="http://45.142.213.135">
-        <fileTransfer rootFolder="/romadaplius.lt" host="45.142.213.135" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="6eb644bb-c026-42ba-bbcd-2fe8a2873025" name="printwall.by" url="http://93.125.18.219">
         <fileTransfer rootFolder="/www/printwall.by" host="93.125.18.219" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a70c9bb5-ea49-4a84-80e6-8c339b1519ab" name="renner.ru" url="http://vh88.timeweb.ru">
+        <fileTransfer rootFolder="/maximum.renner.ru/public_html" host="vh88.timeweb.ru" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
