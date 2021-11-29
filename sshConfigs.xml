@@ -1,0 +1,18 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="31.31.201.195" id="60b41a7b-7716-4d20-8dfb-d53fab4d031d" port="22" customName="mihazzzoldVPS" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="mihazzzoldVPS" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="92.255.76.6" id="00248d43-683a-44a1-a2ba-9953c0965525" port="22" customName="juzt.studio" nameFormat="CUSTOM" username="bitrix">
+        <option name="customName" value="juzt.studio" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="sftp.wp.com" id="45333f97-7c87-4946-915c-2a6a821778b2" port="22" customName="b8agency.com" nameFormat="CUSTOM" username="b8agency.wordpress.com">
+        <option name="customName" value="b8agency.com" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="fakro.myjino.ru" id="8a0dae14-dfb0-4d93-9da4-2b3ccaa05cb2" port="22" customName="fakro" nameFormat="CUSTOM" username="fakro">
+        <option name="customName" value="fakro" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

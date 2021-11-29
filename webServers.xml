@@ -1,0 +1,69 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="113793f6-ef74-4bc2-be7b-0e0152d7c7d0" name="VPS_mihazzzold" url="http://31.31.201.195">
+        <fileTransfer rootFolder="/www" host="31.31.201.195" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3065ad5d-cbf2-4626-a927-1a71d0e6083e" name="mkcostumier-school.ru" url="http://ftp.h911257528.nichost.ru">
+        <fileTransfer host="ftp.h911257528.nichost.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3f1655e7-a572-49e2-9f37-2614b7e5b5a9" name="chaturanga.yoga" url="http://ftp.h010435576.nichost.ru">
+        <fileTransfer host="ftp.h010435576.nichost.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="58df5316-2c0e-4297-a6c2-60cb7a8c252e" name="TESTchaturanga.yoga">
+        <fileTransfer rootFolder="/home/bitrix/ext_www" accessType="SFTP" host="92.255.76.6" port="22" sshConfigId="00248d43-683a-44a1-a2ba-9953c0965525" sshConfig="juzt.studio">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="afa8c6c6-2e94-4307-909c-09fe5b0d890e" name="sign365.ru" url="http://ftp.u0726743.cp.regruhosting.ru">
+        <fileTransfer rootFolder="/sign365.ru" host="ftp.u0726743.cp.regruhosting.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8d0033fa-829b-4f7a-ab18-0f66c63e878e" name="b8agency.com" url="http://sftp.wp.com">
+        <fileTransfer accessType="SFTP" host="sftp.wp.com" port="22" sshConfigId="45333f97-7c87-4946-915c-2a6a821778b2" sshConfig="b8agency.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e92dd7da-63f6-44aa-a6b7-675961a49c73" name="fakroshop">
+        <fileTransfer rootFolder="/home/users/f/fakro/domains/fakroshop.ru" accessType="SFTP" host="fakro.myjino.ru" port="22" sshConfigId="8a0dae14-dfb0-4d93-9da4-2b3ccaa05cb2" sshConfig="fakro" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9360bd4c-4e14-4626-99be-4c7e1217a008" name="mihazzzold" url="http://94.130.167.163">
+        <fileTransfer host="94.130.167.163" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="652469bb-e67e-4a52-b97b-eeac883f0f62" name="VPS_ROOT_mihazzzold">
+        <fileTransfer rootFolder="/var/www/fastuser/data/www" accessType="SFTP" host="31.31.201.195" port="22" sshConfigId="60b41a7b-7716-4d20-8dfb-d53fab4d031d" sshConfig="mihazzzoldVPS">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

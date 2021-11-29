@@ -1,0 +1,30 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="walker" />
+      <item value="string string The string being measured for length. Returns: The length of the string on success, and 0 if the string is empty. Links:" />
+      <item value="preview" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="RUSSIAN" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1636652506520" />
+  </component>
+  <component name="Settings">
+    <option name="autoPlayTTS" value="true" />
+    <option name="autoReplace" value="true" />
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
+    <option name="foldOriginal" value="true" />
+    <option name="keepFormat" value="true" />
+    <option name="selectTargetLanguageBeforeReplacement" value="true" />
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
+    <option name="takeWordWhenDialogOpens" value="true" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
