@@ -8,52 +8,10 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="3065ad5d-cbf2-4626-a927-1a71d0e6083e" name="mkcostumier-school.ru" url="http://ftp.h911257528.nichost.ru">
-        <fileTransfer host="ftp.h911257528.nichost.ru" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="9360bd4c-4e14-4626-99be-4c7e1217a008" name="mihazzzold" url="http://94.130.167.163">
-        <fileTransfer host="94.130.167.163" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="652469bb-e67e-4a52-b97b-eeac883f0f62" name="VPS_ROOT_mihazzzold">
         <fileTransfer rootFolder="/var/www/fastuser/data/www" accessType="SFTP" host="31.31.201.195" port="22" sshConfigId="60b41a7b-7716-4d20-8dfb-d53fab4d031d" sshConfig="mihazzzoldVPS">
           <advancedOptions>
             <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="6eb644bb-c026-42ba-bbcd-2fe8a2873025" name="printwall.by" url="http://93.125.18.219">
-        <fileTransfer rootFolder="/www/printwall.by" host="93.125.18.219" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="a70c9bb5-ea49-4a84-80e6-8c339b1519ab" name="renner.ru" url="http://vh88.timeweb.ru">
-        <fileTransfer rootFolder="/maximum.renner.ru/public_html" host="vh88.timeweb.ru" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="f7f6df73-91ed-4fa0-9738-09971e382526" name="sign365.ru" url="http://ftp.u0726743.cp.regruhosting.ru">
-        <fileTransfer rootFolder="/sign365.ru" host="ftp.u0726743.cp.regruhosting.ru" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="af6f88a6-532f-4166-9e95-9d9255b78431" name="dizzy.kz" url="http://194.39.65.6">
-        <fileTransfer rootFolder="/httpdocs" host="194.39.65.6" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
