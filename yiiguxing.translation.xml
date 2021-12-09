@@ -13,7 +13,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638207499527" />
+    <option name="lastTrimTime" value="1639047351896" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
@@ -23,6 +23,7 @@
     <option name="keepFormat" value="true" />
     <option name="selectTargetLanguageBeforeReplacement" value="true" />
     <option name="showExplanation" value="true" />
+    <option name="showReplacementActionInContextMenu" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="takeWordWhenDialogOpens" value="true" />
     <option name="translateDocumentation" value="true" />
