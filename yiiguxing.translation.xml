@@ -21,6 +21,8 @@
     <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="foldOriginal" value="true" />
     <option name="keepFormat" value="true" />
+    <option name="phoneticFontFamily" value="Segoe UI" />
+    <option name="primaryFontFamily" value="Segoe UI" />
     <option name="selectTargetLanguageBeforeReplacement" value="true" />
     <option name="showExplanation" value="true" />
     <option name="showReplacementActionInContextMenu" value="true" />
