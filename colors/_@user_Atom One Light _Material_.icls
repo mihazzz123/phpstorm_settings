@@ -4,7 +4,7 @@
     <property name="created">2021-09-03T11:50:17</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-09-28T10:53:47</property>
+    <property name="modified">2021-12-16T08:24:29</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -59,7 +59,10 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="586e75" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="73c990" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="4078f2" />
     <option name="FILESTATUS_MODIFIED" value="986801" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
@@ -186,7 +189,7 @@
         <option name="FOREGROUND" value="50a14e" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4078f2" />
@@ -322,7 +325,6 @@
         <option name="FOREGROUND" value="c18401" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -1256,7 +1258,7 @@
         <option name="BACKGROUND" value="eaeaeb" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="IVAR">
       <value>
         <option name="FOREGROUND" value="184bc" />
@@ -3580,8 +3582,8 @@
         <option name="FOREGROUND" value="50a14e" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="Scala Predefined types">
       <value>
         <option name="FOREGROUND" value="383a42" />
@@ -3677,7 +3679,7 @@
         <option name="FOREGROUND" value="50a14f" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="526fff" />

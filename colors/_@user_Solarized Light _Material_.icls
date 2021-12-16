@@ -4,7 +4,7 @@
     <property name="created">2021-09-03T11:50:17</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-09-03T13:36:33</property>
+    <property name="modified">2021-12-16T08:24:29</property>
     <property name="originalScheme">Solarized Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -61,7 +61,10 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="cb4b16" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="cb4b16" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="cb4b16" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="586e75" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="73c990" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="6c71c4" />
     <option name="FILESTATUS_MODIFIED" value="2aa198" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
@@ -204,8 +207,8 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="Abstract class">
       <value>
         <option name="FOREGROUND" value="b58800" />
@@ -337,7 +340,6 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="657b83" />
@@ -1305,7 +1307,7 @@
         <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
-    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="" />
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="BACKGROUND" value="fdf7d7" />
@@ -1372,7 +1374,7 @@
         <option name="BACKGROUND" value="cac5b6" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="IVAR">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -4129,8 +4131,8 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="STRUCT_LIKE">
       <value>
         <option name="FOREGROUND" value="b58900" />
