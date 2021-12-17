@@ -4,7 +4,7 @@
     <property name="created">2021-09-03T11:50:17</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-12-16T08:24:29</property>
+    <property name="modified">2021-12-15T15:03:36</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -207,8 +207,8 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="Abstract class">
       <value>
         <option name="FOREGROUND" value="b58800" />
@@ -335,7 +335,7 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="COFFEESCRIPT.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="b58900" />
@@ -573,7 +573,7 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Class" baseAttributes="" />
     <option name="Clojure Atom">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -1323,7 +1323,7 @@
         <option name="FOREGROUND" value="839496" />
       </value>
     </option>
-    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="" />
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="BACKGROUND" value="123a37" />
@@ -1619,7 +1619,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="73642" />
@@ -3238,10 +3238,10 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.KEY" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROPS.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ebe5d2" />
@@ -4148,7 +4148,7 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="STRUCT_LIKE">
       <value>
         <option name="FOREGROUND" value="b38700" />
@@ -4186,7 +4186,7 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -4399,10 +4399,10 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="VELOCITY_DIRECTIVE" baseAttributes="JSP_DIRECTIVE_NAME" />
-    <option name="VELOCITY_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="VELOCITY_REFERENCE" baseAttributes="JSP_ATTRIBUTE_NAME" />
-    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="JSP_SCRIPTING_BACKGROUND" />
+    <option name="VELOCITY_DIRECTIVE" baseAttributes="" />
+    <option name="VELOCITY_KEYWORD" baseAttributes="" />
+    <option name="VELOCITY_REFERENCE" baseAttributes="" />
+    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="" />
     <option name="Valid escape in string">
       <value>
         <option name="FOREGROUND" value="d43780" />
