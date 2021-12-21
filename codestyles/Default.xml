@@ -17,7 +17,6 @@
     <option name="GROUP_STDLIB_IMPORTS" value="true" />
     <option name="CREATE_LOCAL_GROUP" value="true" />
     <option name="LOCAL_PACKAGE_PREFIXES" />
-    <option name="WRAP_COMP_LIT" value="2" />
   </GoCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_UNIFORM_INDENT" value="true" />
