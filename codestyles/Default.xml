@@ -11,6 +11,14 @@
   <EjsCustomCodeStyleSettings>
     <option name="SPACES_BEFORE_COLON" value="true" />
   </EjsCustomCodeStyleSettings>
+  <GoCodeStyleSettings>
+    <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
+    <option name="MOVE_ALL_STDLIB_IMPORTS_IN_ONE_GROUP" value="true" />
+    <option name="GROUP_STDLIB_IMPORTS" value="true" />
+    <option name="CREATE_LOCAL_GROUP" value="true" />
+    <option name="LOCAL_PACKAGE_PREFIXES" />
+    <option name="WRAP_COMP_LIT" value="2" />
+  </GoCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_UNIFORM_INDENT" value="true" />
     <option name="HTML_ATTRIBUTE_WRAP" value="2" />
@@ -144,6 +152,19 @@
       <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="go">
+    <option name="CALL_PARAMETERS_WRAP" value="2" />
+    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="false" />
+    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="false" />
+    <option name="WRAP_ON_TYPING" value="1" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="SMART_TABS" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
