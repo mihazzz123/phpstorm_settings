@@ -155,7 +155,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="go">
-    <option name="CALL_PARAMETERS_WRAP" value="2" />
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="false" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="false" />
     <option name="WRAP_ON_TYPING" value="1" />
