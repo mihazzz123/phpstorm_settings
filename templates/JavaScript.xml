@@ -1,5 +1,3 @@
 <templateSet group="JavaScript">
-  <template name="log" value="console.log($END$)" description="console.log()" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="log" value="console.log($END$)" description="console.log()" toReformat="true" toShortenFQNames="true" />
 </templateSet>
