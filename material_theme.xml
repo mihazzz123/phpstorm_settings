@@ -12,10 +12,10 @@
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="tabsHeight" value="36" />
-    <option name="accentColor" value="74a0f1" />
-    <option name="selectedTheme" value="MOONLIGHT" />
+    <option name="accentColor" value="2979ff" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="-f3fad00:17baa458e5f:-7fc5" />
-    <option name="version" value="6.12.1" />
+    <option name="version" value="6.12.2" />
     <option name="stripedToolWindowsEnabled" value="true" />
   </component>
 </application>
