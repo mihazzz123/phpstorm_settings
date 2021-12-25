@@ -2,13 +2,12 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn" />
     <extensionMap>
-      <mapping pattern=".bablerc" type="ECMAScript 6" />
       <mapping ext="2" type="PHP" />
       <mapping ext="sock" type="PLAIN_TEXT" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext="tabnine" type="Tabnine project model file" />
-      <mapping ext=".tabnine.model" type="Tabnine project model file" />
       <mapping ext="model" type="Tabnine project model file" />
       <mapping ext="-php" type="XHTML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
@@ -18,6 +17,8 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern="style.css" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="style.css" approved="true" type="CSS" />
+      <mapping ext="2" type="PHP" />
+      <mapping pattern=".bablerc" type="ECMAScript 6" />
     </extensionMap>
   </component>
 </application>
