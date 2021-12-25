@@ -4,7 +4,7 @@
     <property name="created">2021-09-03T11:50:17</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-12-24T14:53:08</property>
+    <property name="modified">2021-12-25T15:31:59</property>
     <property name="originalScheme">Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -970,23 +970,23 @@
         <option name="FOREGROUND" value="70b0ff" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_COMMENT" baseAttributes="" />
+    <option name="HAML_FILTER" baseAttributes="" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="70b0ff" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
-    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="HAML_TAG" baseAttributes="TEXT" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
+    <option name="HAML_RUBY_START" baseAttributes="" />
+    <option name="HAML_TAG" baseAttributes="" />
     <option name="HAML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ff757f" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
+    <option name="HAML_TEXT" baseAttributes="" />
     <option name="HAML_XHTML">
       <value>
         <option name="FOREGROUND" value="baacff" />
@@ -1394,7 +1394,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="444a73" />
@@ -3467,7 +3467,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_COMMENT" baseAttributes="" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="70b0ff" />
@@ -3523,7 +3523,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="ff9668" />
