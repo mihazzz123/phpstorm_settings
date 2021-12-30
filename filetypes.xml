@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".bablerc" type="ECMAScript 6" />
       <mapping ext="2" type="PHP" />
+      <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping ext="sock" type="PLAIN_TEXT" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".model" type="Tabnine project model file" />

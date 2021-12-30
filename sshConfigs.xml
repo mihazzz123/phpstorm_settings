@@ -7,7 +7,7 @@
       <sshConfig authType="PASSWORD" host="192.168.56.10" id="206a2275-8620-4cdd-94d3-ba9c71f82e5c" port="22" customName="VirtualServer" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
         <option name="customName" value="VirtualServer" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="mihazzzold-dev.elewise.local" id="49a2e5e6-8f7d-4da4-be49-c8a9ae1bcf29" port="22" customName="ELMA_VM" nameFormat="CUSTOM" username="admtmp" useOpenSSHConfig="true">
+      <sshConfig authType="PASSWORD" host="mihazzzold-dev.elewise.local" id="49a2e5e6-8f7d-4da4-be49-c8a9ae1bcf29" port="22" customName="ELMA_VM" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
         <option name="customName" value="ELMA_VM" />
       </sshConfig>
     </configs>
