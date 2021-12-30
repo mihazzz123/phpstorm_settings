@@ -6,6 +6,7 @@
       <mapping ext="2" type="PHP" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping ext="sock" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext="tabnine" type="Tabnine project model file" />
