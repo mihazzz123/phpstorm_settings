@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="31.31.201.195" id="60b41a7b-7716-4d20-8dfb-d53fab4d031d" port="22" customName="mihazzzoldVPS" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" host="194.67.93.91" id="60b41a7b-7716-4d20-8dfb-d53fab4d031d" port="22" customName="mihazzzoldVPS" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
         <option name="customName" value="mihazzzoldVPS" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="92.255.76.6" id="00248d43-683a-44a1-a2ba-9953c0965525" port="22" customName="juzt.studio" nameFormat="CUSTOM" username="bitrix">
