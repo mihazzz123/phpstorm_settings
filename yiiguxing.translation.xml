@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Error response from daemon: login attempt to https://gitint.elewise.com:5050/v2/ failed with status: 401 Unauthorized&#10;" />
       <item value="Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get &quot;http://%2Fvar%2Frun%2Fdocker.sock/v1.24/version&quot;: dial unix /var/run/docker.sock: connect: permission denied&#10;" />
       <item value="[In Strings, Comments, and Text] References in code to file getUpdates (3 references in 1 file) in" />
       <item value="символ" />
@@ -27,7 +28,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="12" />
+        <entry key="RUSSIAN" value="13" />
       </map>
     </option>
   </component>
