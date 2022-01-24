@@ -1,9 +1,6 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="194.67.93.91" id="60b41a7b-7716-4d20-8dfb-d53fab4d031d" port="22" customName="mihazzzoldVPS" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
-        <option name="customName" value="mihazzzoldVPS" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="mihazzzold-dev.elewise.local" id="49a2e5e6-8f7d-4da4-be49-c8a9ae1bcf29" port="22" customName="ELMA_VM" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
         <option name="customName" value="ELMA_VM" />
       </sshConfig>
