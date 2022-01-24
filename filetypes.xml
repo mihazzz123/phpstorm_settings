@@ -10,14 +10,16 @@
       <mapping pattern="services" type="AUTO_DETECTED" />
       <mapping ext="env" type="AUTO_DETECTED" />
       <mapping pattern=".bablerc" type="ECMAScript 6" />
+      <mapping ext="dev" type="Nginx Configuration" />
       <mapping ext="2" type="PHP" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern=".rvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
+      <mapping ext="20211108" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="sock" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="b" type="PLAIN_TEXT" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext="tabnine" type="Tabnine project model file" />
@@ -25,6 +27,7 @@
       <mapping ext="model" type="Tabnine project model file" />
       <mapping ext="-php" type="XHTML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="env" approved="true" type="Env File" />
