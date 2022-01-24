@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="- the domain's nameservers may be malfunctioning; DNS problem: SERVFAIL looking up AAAA for " />
+      <item value=" the domain's nameservers may be malfunctioning&quot;" />
+      <item value="LetsEncrypt is not enabled in your gitlab.rb. Have you run &quot;gitlab-ctl reconfigure&quot; yet?&#10;" />
       <item value="An unexpected error occurred:&#10;The server will not issue certificates for the identifier :: Error creating new order :: Cannot issue for &quot;mihazzzold.gitlab&quot;: Domain name does not end with a valid public suffix (TLD)&#10;" />
       <item value="Error response from daemon: login attempt to https://gitint.elewise.com:5050/v2/ failed with status: 401 Unauthorized&#10;" />
       <item value="Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get &quot;http://%2Fvar%2Frun%2Fdocker.sock/v1.24/version&quot;: dial unix /var/run/docker.sock: connect: permission denied&#10;" />
@@ -29,7 +32,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="15" />
+        <entry key="RUSSIAN" value="18" />
       </map>
     </option>
   </component>
