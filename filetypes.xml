@@ -13,7 +13,6 @@
       <mapping ext="dev" type="Nginx Configuration" />
       <mapping ext="2" type="PHP" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
-      <mapping pattern=".rvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="20211108" type="PLAIN_TEXT" />
