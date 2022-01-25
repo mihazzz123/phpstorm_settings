@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Error response from daemon: conflict: unable to delete c236ee11a23e (must be forced) - image is referenced in multiple repositories&#10;" />
+      <item value=" latest    &#10; lasted " />
+      <item value=" latest    &#10;   lasted " />
+      <item value=" latest       lasted " />
+      <item value=" latest    c236ee11a23e   4 weeks ago   955MB&#10;gitint.elewise.com:5050/mihazzzold/integration-dadata   lasted " />
+      <item value="The push refers to repository [gitint.elewise.com:5050/integration-dadata]&#10;An image does not exist locally with the tag: " />
+      <item value="denied: requested access to the resource is denied&#10;" />
       <item value="File exists&#10;" />
       <item value=" [emerg] open() &quot;/etc/nginx/sites-enabled/mihazzzold.gitlab.dev&quot; failed (2: No such file or directory) in /etc/nginx/nginx.conf:62&#10;" />
       <item value="- the domain's nameservers may be malfunctioning; DNS problem: SERVFAIL looking up AAAA for " />
@@ -34,7 +41,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="20" />
+        <entry key="RUSSIAN" value="24" />
       </map>
     </option>
   </component>
