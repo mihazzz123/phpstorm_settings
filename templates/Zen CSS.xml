@@ -1,3 +1,5 @@
 <templateSet group="Zen CSS">
-  <template name="mb" value="margin-bottom: $END$;" description="margin-bottom:...;" toReformat="true" toShortenFQNames="true" />
+  <template name="mb" value="margin-bottom: $END$;" description="margin-bottom:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
