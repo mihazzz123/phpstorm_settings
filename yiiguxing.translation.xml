@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
-    <option name="newTranslationDialogX" value="798" />
-    <option name="newTranslationDialogY" value="457" />
+    <option name="newTranslationDialogHeight" value="245" />
+    <option name="newTranslationDialogWidth" value="483" />
+    <option name="newTranslationDialogX" value="788" />
+    <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="allow failure" />
+      <item value="allow_failure" />
+      <item value="allow failureallow_failure" />
       <item value="deploy" />
       <item value="deploydeploy&#10;" />
       <item value="deploydeploy" />
@@ -43,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="4" />
-        <entry key="RUSSIAN" value="26" />
+        <entry key="ENGLISH" value="5" />
+        <entry key="RUSSIAN" value="28" />
       </map>
     </option>
   </component>
