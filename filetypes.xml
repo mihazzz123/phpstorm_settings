@@ -16,6 +16,7 @@
       <mapping pattern=".htaccess" type="PLAIN_TEXT" />
       <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
+      <mapping ext="e365" type="PLAIN_TEXT" />
       <mapping ext="20211108" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="sock" type="PLAIN_TEXT" />
