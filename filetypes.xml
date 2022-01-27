@@ -5,6 +5,7 @@
       <mapping pattern="hostname" type="AUTO_DETECTED" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern="getUpdates.go" type="AUTO_DETECTED" />
+      <mapping pattern="ssh_config" type="AUTO_DETECTED" />
       <mapping pattern="default" type="AUTO_DETECTED" />
       <mapping pattern="htpasswd" type="AUTO_DETECTED" />
       <mapping pattern="services" type="AUTO_DETECTED" />
