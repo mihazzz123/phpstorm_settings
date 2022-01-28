@@ -7,6 +7,9 @@
       <sshConfig authType="PASSWORD" host="gitint.sale.elewise.com" id="d30a12d6-0524-476f-bd67-6f2536dda07f" port="22" customName="gitint.elewise.local" nameFormat="CUSTOM" username="admin" useOpenSSHConfig="true">
         <option name="customName" value="gitint.elewise.local" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="178.44.114.69" id="4437b0a5-8d77-44b8-91c9-0c379eb98690" port="2222" customName="me" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="me" />
+      </sshConfig>
     </configs>
   </component>
 </application>
