@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="798" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="sh: 1: cannot create .ssh/authorized_keys: Permission denied&#10;" />
+      <item value="/usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed&#10;/usr/bin/ssh-copy-id: INFO: 2 key(s) remain to be installed -- if you are prompted now it is to install the new keys&#10;" />
       <item value="Failed to start dnsmasq - A lightweight DHCP and caching DNS server.&#10;" />
       <item value="Error response from daemon: login attempt to https://gitint.elewise.com:5050/v2/ failed with status: 401 Unauthorized&#10;" />
       <item value="Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get &quot;http://%2Fvar%2Frun%2Fdocker.sock/v1.24/version&quot;: dial unix /var/run/docker.sock: connect: permission denied&#10;" />
@@ -29,7 +31,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="15" />
+        <entry key="RUSSIAN" value="17" />
       </map>
     </option>
   </component>
