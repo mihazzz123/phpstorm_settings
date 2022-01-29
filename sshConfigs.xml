@@ -10,6 +10,7 @@
       <sshConfig authType="PASSWORD" host="178.44.114.69" id="4437b0a5-8d77-44b8-91c9-0c379eb98690" port="2222" customName="me" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
         <option name="customName" value="me" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="78.108.87.12" id="bc47e510-9a52-42a8-b1db-8f5c26f4b9da" port="22" nameFormat="DESCRIPTIVE" username="bitrix" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
