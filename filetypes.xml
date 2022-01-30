@@ -13,6 +13,7 @@
       <mapping pattern=".bablerc" type="ECMAScript 6" />
       <mapping ext="2" type="PHP" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
+      <mapping pattern=".confsdi.mihazzzold.site" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="save" type="PLAIN_TEXT" />
