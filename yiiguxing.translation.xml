@@ -1,12 +1,29 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
-    <option name="newTranslationDialogX" value="798" />
-    <option name="newTranslationDialogY" value="457" />
+    <option name="newTranslationDialogHeight" value="245" />
+    <option name="newTranslationDialogWidth" value="483" />
+    <option name="newTranslationDialogX" value="788" />
+    <option name="newTranslationDialogY" value="470" />
     <histories>
-      <item value="sh: 1: cannot create .ssh/authorized_keys: Permission denied&#10;" />
-      <item value="/usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed&#10;/usr/bin/ssh-copy-id: INFO: 2 key(s) remain to be installed -- if you are prompted now it is to install the new keys&#10;" />
-      <item value="Failed to start dnsmasq - A lightweight DHCP and caching DNS server.&#10;" />
+      <item value="allow failure" />
+      <item value="allow_failure" />
+      <item value="allow failureallow_failure" />
+      <item value="deploy" />
+      <item value="deploydeploy&#10;" />
+      <item value="deploydeploy" />
+      <item value="Error response from daemon: conflict: unable to delete c236ee11a23e (must be forced) - image is referenced in multiple repositories&#10;" />
+      <item value=" latest    &#10; lasted " />
+      <item value=" latest    &#10;   lasted " />
+      <item value=" latest       lasted " />
+      <item value=" latest    c236ee11a23e   4 weeks ago   955MB&#10;gitint.elewise.com:5050/mihazzzold/integration-dadata   lasted " />
+      <item value="The push refers to repository [gitint.elewise.com:5050/integration-dadata]&#10;An image does not exist locally with the tag: " />
+      <item value="denied: requested access to the resource is denied&#10;" />
+      <item value="File exists&#10;" />
+      <item value=" [emerg] open() &quot;/etc/nginx/sites-enabled/mihazzzold.gitlab.dev&quot; failed (2: No such file or directory) in /etc/nginx/nginx.conf:62&#10;" />
+      <item value="- the domain's nameservers may be malfunctioning; DNS problem: SERVFAIL looking up AAAA for " />
+      <item value=" the domain's nameservers may be malfunctioning&quot;" />
+      <item value="LetsEncrypt is not enabled in your gitlab.rb. Have you run &quot;gitlab-ctl reconfigure&quot; yet?&#10;" />
+      <item value="An unexpected error occurred:&#10;The server will not issue certificates for the identifier :: Error creating new order :: Cannot issue for &quot;mihazzzold.gitlab&quot;: Domain name does not end with a valid public suffix (TLD)&#10;" />
       <item value="Error response from daemon: login attempt to https://gitint.elewise.com:5050/v2/ failed with status: 401 Unauthorized&#10;" />
       <item value="Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get &quot;http://%2Fvar%2Frun%2Fdocker.sock/v1.24/version&quot;: dial unix /var/run/docker.sock: connect: permission denied&#10;" />
       <item value="[In Strings, Comments, and Text] References in code to file getUpdates (3 references in 1 file) in" />
@@ -30,13 +47,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="17" />
+        <entry key="ENGLISH" value="5" />
+        <entry key="RUSSIAN" value="28" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643135431164" />
+    <option name="lastTrimTime" value="1643002501900" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />

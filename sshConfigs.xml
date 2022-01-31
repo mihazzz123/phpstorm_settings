@@ -7,10 +7,7 @@
       <sshConfig authType="PASSWORD" host="gitint.sale.elewise.com" id="d30a12d6-0524-476f-bd67-6f2536dda07f" port="22" customName="gitint.elewise.local" nameFormat="CUSTOM" username="admin" useOpenSSHConfig="true">
         <option name="customName" value="gitint.elewise.local" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="178.44.114.69" id="4437b0a5-8d77-44b8-91c9-0c379eb98690" port="2222" customName="me" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
-        <option name="customName" value="me" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="78.108.87.12" id="bc47e510-9a52-42a8-b1db-8f5c26f4b9da" port="22" nameFormat="DESCRIPTIVE" username="bitrix" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="192.168.56.10" id="de201a46-a6ff-41b5-a9a9-a6ad004c936d" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
