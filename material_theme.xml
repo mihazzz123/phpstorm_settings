@@ -6,6 +6,7 @@
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
     <option name="useMaterialFont" value="true" />
+    <option name="accentMode" value="true" />
     <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
@@ -23,8 +24,7 @@
     <option name="useColoredDirectories" value="true" />
     <option name="indicatorStyle" value="Dot" />
     <option name="tabsHeight" value="26" />
-    <option name="accentColor" value="8386b2" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="accentColor" value="009688" />
     <option name="userId" value="-f3fad00:17baa458e5f:-7fc5" />
     <option name="version" value="6.13.0" />
     <option name="tabHighlightPosition" value="Top" />
