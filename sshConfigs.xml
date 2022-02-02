@@ -9,6 +9,7 @@
       </sshConfig>
       <sshConfig authType="PASSWORD" host="192.168.56.10" id="de201a46-a6ff-41b5-a9a9-a6ad004c936d" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" host="194.58.104.117" id="bcf68f2e-0fd8-47e0-aefa-3a770838ce3b" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig host="localhost" id="4437b0a5-8d77-44b8-91c9-0c379eb98690" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
