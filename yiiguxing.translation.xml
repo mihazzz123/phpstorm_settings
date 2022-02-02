@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="788" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="has unmet peer dependency" />
       <item value="allow failure" />
       <item value="allow_failure" />
       <item value="allow failureallow_failure" />
@@ -48,12 +49,12 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="5" />
-        <entry key="RUSSIAN" value="28" />
+        <entry key="RUSSIAN" value="29" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643650902808" />
+    <option name="lastTrimTime" value="1643693439114" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
