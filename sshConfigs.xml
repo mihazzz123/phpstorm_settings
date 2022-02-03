@@ -9,6 +9,9 @@
       </sshConfig>
       <sshConfig authType="PASSWORD" host="192.168.56.10" id="de201a46-a6ff-41b5-a9a9-a6ad004c936d" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" host="194.58.104.117" id="bcf68f2e-0fd8-47e0-aefa-3a770838ce3b" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="194.58.103.3" id="96e7a55a-f8a0-48e7-98ae-6f1a2a1994e2" port="22" customName="SDI" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="SDI" />
+      </sshConfig>
     </configs>
   </component>
 </application>
