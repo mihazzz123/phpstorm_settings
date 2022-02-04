@@ -14,6 +14,7 @@
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="sock" type="PLAIN_TEXT" />
       <mapping ext="b" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext="tabnine" type="Tabnine project model file" />
