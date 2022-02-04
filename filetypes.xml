@@ -5,6 +5,7 @@
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping ext="ldif" type="AUTO_DETECTED" />
       <mapping pattern=".bablerc" type="ECMAScript 6" />
+      <mapping ext="includes" type="Nginx Configuration" />
       <mapping ext="2" type="PHP" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess" type="PLAIN_TEXT" />
