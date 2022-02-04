@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="788" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="Using configuration from /usr/lib/ssl/openssl.cnf&#10;Check that the request matches the signature&#10;Signature ok&#10;The commonName field needed to be supplied and was missing&#10;" />
       <item value="has unmet peer dependency" />
       <item value="allow failure" />
       <item value="allow_failure" />
@@ -49,7 +50,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="5" />
-        <entry key="RUSSIAN" value="29" />
+        <entry key="RUSSIAN" value="30" />
       </map>
     </option>
   </component>
