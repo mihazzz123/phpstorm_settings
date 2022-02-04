@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="245" />
-    <option name="newTranslationDialogWidth" value="483" />
+    <option name="newTranslationDialogHeight" value="383" />
+    <option name="newTranslationDialogWidth" value="680" />
     <option name="newTranslationDialogX" value="788" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="[vite]: Rollup failed to resolve import &quot;jquery&quot; from &quot;src/components/Projects.vue&quot;.&#10;This is most likely unintended because it can break your application at runtime.&#10;If you do want to externalize this module explicitly add it to&#10;`build.rollupOptions.external`&#10;error during build:&#10;" />
       <item value="has unmet peer dependency" />
       <item value="allow failure" />
       <item value="allow_failure" />
@@ -49,7 +50,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="5" />
-        <entry key="RUSSIAN" value="29" />
+        <entry key="RUSSIAN" value="30" />
       </map>
     </option>
   </component>
