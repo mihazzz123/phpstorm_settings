@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern=".bablerc" type="ECMAScript 6" />
+      <mapping pattern="off" type="Nginx Configuration" />
       <mapping ext="site" type="Nginx Configuration" />
       <mapping ext="includes" type="Nginx Configuration" />
       <mapping ext="2" type="PHP" />
