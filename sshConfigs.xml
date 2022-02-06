@@ -12,6 +12,9 @@
         <option name="customName" value="ME" />
       </sshConfig>
       <sshConfig host="localhost" id="4437b0a5-8d77-44b8-91c9-0c379eb98690" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="194.58.103.3" id="5bd3ab45-efa0-450c-a503-e4e85e38a71f" port="22" customName="SDI.GURU" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="SDI.GURU" />
+      </sshConfig>
     </configs>
   </component>
 </application>
