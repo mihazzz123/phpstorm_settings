@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="245" />
-    <option name="newTranslationDialogWidth" value="483" />
+    <option name="newTranslationDialogWidth" value="481" />
     <option name="newTranslationDialogX" value="788" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
+      <item value="Result: Server is unwilling to perform (53)&#10;Additional info: user must change own password&#10;" />
       <item value="Using configuration from /usr/lib/ssl/openssl.cnf&#10;Check that the request matches the signature&#10;Signature ok&#10;The commonName field needed to be supplied and was missing&#10;" />
       <item value="has unmet peer dependency" />
       <item value="allow failure" />
@@ -50,12 +51,12 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="5" />
-        <entry key="RUSSIAN" value="30" />
+        <entry key="RUSSIAN" value="31" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643693439114" />
+    <option name="lastTrimTime" value="1644218545313" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
