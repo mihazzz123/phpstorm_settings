@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="383" />
-    <option name="newTranslationDialogWidth" value="680" />
-    <option name="newTranslationDialogX" value="788" />
-    <option name="newTranslationDialogY" value="470" />
+    <option name="newTranslationDialogWidth" value="404" />
+    <option name="newTranslationDialogX" value="793" />
+    <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="Maximum number of files that can be uploaded via a single request" />
       <item value="Failed to start mysql.service: Unit mysql.service is masked.&#10;" />
       <item value="[vite]: Rollup failed to resolve import &quot;jquery&quot; from &quot;src/components/Projects.vue&quot;.&#10;This is most likely unintended because it can break your application at runtime.&#10;If you do want to externalize this module explicitly add it to&#10;`build.rollupOptions.external`&#10;error during build:&#10;" />
       <item value="has unmet peer dependency" />
@@ -51,7 +52,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="5" />
-        <entry key="RUSSIAN" value="31" />
+        <entry key="RUSSIAN" value="32" />
       </map>
     </option>
   </component>
