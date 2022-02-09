@@ -3,9 +3,9 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn" />
     <extensionMap>
       <mapping pattern="hosts" type="AUTO_DETECTED" />
+      <mapping ext="ldif" type="AUTO_DETECTED" />
       <mapping pattern=".bablerc" type="ECMAScript 6" />
-      <mapping pattern="off" type="Nginx Configuration" />
-      <mapping ext="site" type="Nginx Configuration" />
+      <mapping pattern="cl" type="Nginx Configuration" />
       <mapping ext="includes" type="Nginx Configuration" />
       <mapping ext="2" type="PHP" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
@@ -16,9 +16,7 @@
       <mapping ext="20211108" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="sock" type="PLAIN_TEXT" />
-      <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="b" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext="tabnine" type="Tabnine project model file" />

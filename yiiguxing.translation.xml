@@ -1,13 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="383" />
-    <option name="newTranslationDialogWidth" value="404" />
-    <option name="newTranslationDialogX" value="793" />
-    <option name="newTranslationDialogY" value="472" />
+    <option name="newTranslationDialogHeight" value="245" />
+    <option name="newTranslationDialogWidth" value="481" />
+    <option name="newTranslationDialogX" value="788" />
+    <option name="newTranslationDialogY" value="470" />
     <histories>
-      <item value="Maximum number of files that can be uploaded via a single request" />
-      <item value="Failed to start mysql.service: Unit mysql.service is masked.&#10;" />
-      <item value="[vite]: Rollup failed to resolve import &quot;jquery&quot; from &quot;src/components/Projects.vue&quot;.&#10;This is most likely unintended because it can break your application at runtime.&#10;If you do want to externalize this module explicitly add it to&#10;`build.rollupOptions.external`&#10;error during build:&#10;" />
+      <item value="Result: Server is unwilling to perform (53)&#10;Additional info: user must change own password&#10;" />
+      <item value="Using configuration from /usr/lib/ssl/openssl.cnf&#10;Check that the request matches the signature&#10;Signature ok&#10;The commonName field needed to be supplied and was missing&#10;" />
       <item value="has unmet peer dependency" />
       <item value="allow failure" />
       <item value="allow_failure" />
@@ -52,12 +51,12 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="5" />
-        <entry key="RUSSIAN" value="32" />
+        <entry key="RUSSIAN" value="31" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644149879470" />
+    <option name="lastTrimTime" value="1644218545313" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
