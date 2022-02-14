@@ -3,7 +3,7 @@
     <property name="created">2021-09-03T12:02:27</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2022-01-31T14:28:29</property>
+    <property name="modified">2022-02-14T17:05:35</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -274,6 +274,31 @@
         <option name="FOREGROUND" value="b389c5" />
         <option name="EFFECT_COLOR" value="b389c5" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="3a3a2c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="313a31" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3a313a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="2e3939" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="452828" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
