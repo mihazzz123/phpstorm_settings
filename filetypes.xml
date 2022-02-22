@@ -17,11 +17,6 @@
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="sock" type="PLAIN_TEXT" />
       <mapping ext="b" type="PLAIN_TEXT" />
-      <mapping ext=".tabnine" type="Tabnine project model file" />
-      <mapping ext=".model" type="Tabnine project model file" />
-      <mapping ext="tabnine" type="Tabnine project model file" />
-      <mapping ext=".tabnine.model" type="Tabnine project model file" />
-      <mapping ext="model" type="Tabnine project model file" />
       <mapping ext="-php" type="XHTML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
