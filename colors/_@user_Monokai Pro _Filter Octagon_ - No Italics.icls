@@ -1,10 +1,10 @@
-<scheme name="_@user_Monokai Pro (Filter Octagon)" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Monokai Pro (Filter Octagon) - No Italics" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-01-31T14:26:55</property>
+    <property name="created">2022-02-14T17:05:27</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.2.0.0</property>
     <property name="modified">2022-02-14T17:05:36</property>
-    <property name="originalScheme">Monokai Pro (Filter Octagon)</property>
+    <property name="originalScheme">Monokai Pro (Filter Octagon) - No Italics</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="bad761" />
@@ -16,31 +16,27 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="3a3d4b" />
-    <option name="FILESTATUS_ADDED" value="c3e887" />
-    <option name="FILESTATUS_COPIED" value="7af8ca" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ff5370" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7f85a3" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ffdb8e" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ffdb8e" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ffdb8e" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="73c990" />
+    <option name="FILESTATUS_ADDED" value="bad761" />
+    <option name="FILESTATUS_COPIED" value="bad761" />
+    <option name="FILESTATUS_DELETED" value="696d77" />
+    <option name="FILESTATUS_HIJACKED" value="ffd76d" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="696d77" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff9b5e" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff9b5e" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff9b5e" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="bad761" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="70b0ff" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_RENAMED" value="baacff" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="f77669" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="baacff" />
-    <option name="FILESTATUS_changelistConflict" value="ffdb8e" />
-    <option name="FILESTATUS_modifiedOutside" value="70b0ff" />
+    <option name="FILESTATUS_MERGED" value="c39ac9" />
+    <option name="FILESTATUS_MODIFIED" value="9cd1bb" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="9cd1bb" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="9cd1bb" />
+    <option name="FILESTATUS_SUPPRESSED" value="696d77" />
+    <option name="FILESTATUS_SWITCHED" value="c39ac9" />
+    <option name="FILESTATUS_UNKNOWN" value="f59762" />
+    <option name="FILESTATUS_addedOutside" value="bad761" />
+    <option name="FILESTATUS_changelistConflict" value="f65f87" />
+    <option name="FILESTATUS_modifiedOutside" value="9cd1bb" />
     <option name="GUTTER_BACKGROUND" value="282a3a" />
     <option name="INDENT_GUIDE" value="303342" />
     <option name="INFORMATION_HINT" value="3a3d4b" />
@@ -130,7 +126,6 @@
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BACKGROUND">
@@ -147,7 +142,6 @@
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BNF_KEYWORD">
@@ -205,7 +199,6 @@
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -231,13 +224,11 @@
     <option name="COFFEESCRIPT.CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="c1c0c0" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
@@ -326,7 +317,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
@@ -347,13 +337,11 @@
     <option name="CSS.ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.COLON">
@@ -375,7 +363,6 @@
     <option name="CSS.HASH">
       <value>
         <option name="FOREGROUND" value="ff9b5e" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.PROPERTY_NAME">
@@ -391,7 +378,6 @@
     <option name="CSS.PSEUDO">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.URL">
@@ -414,7 +400,6 @@
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
@@ -453,7 +438,6 @@
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="696d77" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -489,7 +473,6 @@
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="696d77" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -553,7 +536,6 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -575,7 +557,6 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="696d77" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -601,7 +582,6 @@
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f59762" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -612,7 +592,6 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
@@ -625,7 +604,6 @@
     <option name="DEFAULT_REASSIGNED_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="f78c6c" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -638,13 +616,11 @@
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="eaf2f1" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -779,7 +755,6 @@
     <option name="GO_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="696d77" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GO_BUILTIN_CONSTANT">
@@ -790,7 +765,6 @@
     <option name="GO_BUILTIN_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GO_BUILTIN_TYPE_REFERENCE">
@@ -806,7 +780,6 @@
     <option name="GO_EXPORTED_FUNCTION">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GO_EXPORTED_FUNCTION_CALL">
@@ -822,13 +795,11 @@
     <option name="GO_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff657a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GO_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="696d77" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GO_LOCAL_CONSTANT">
@@ -849,7 +820,6 @@
     <option name="GO_METHOD_RECEIVER">
       <value>
         <option name="FOREGROUND" value="ff9b5e" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GO_PACKAGE">
@@ -860,7 +830,6 @@
     <option name="GO_PACKAGE_EXPORTED_CONSTANT">
       <value>
         <option name="FOREGROUND" value="f59762" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GO_PACKAGE_LOCAL_CONSTANT">
@@ -881,19 +850,16 @@
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HAML_RUBY_START">
       <value>
         <option name="FOREGROUND" value="ff657a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HAML_TAG">
@@ -909,19 +875,16 @@
     <option name="HOCON_BOOLEAN">
       <value>
         <option name="FOREGROUND" value="c39ac9" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HOCON_NULL">
       <value>
         <option name="FOREGROUND" value="c39ac9" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -1130,19 +1093,16 @@
     <option name="JS.DEBUGGER_STMT">
       <value>
         <option name="FOREGROUND" value="f59762" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.FUNCTION">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
@@ -1163,7 +1123,6 @@
     <option name="JS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="ffd76d" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.NULL_UNDEFINED">
@@ -1179,19 +1138,16 @@
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="c1c0c0" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.VAR_DEF">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
       <value>
         <option name="FOREGROUND" value="c39ac9" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JUPYTER_SELECTED_CELL">
@@ -1202,7 +1158,6 @@
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_ARROW">
@@ -1258,7 +1213,6 @@
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
@@ -1276,13 +1230,10 @@
     <option name="KOTLIN_TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="LABEL">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-      </value>
+      <value />
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
@@ -1349,7 +1300,6 @@
     <option name="LUA_SELF">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="LUA_STD_API">
@@ -1447,13 +1397,11 @@
     <option name="MARKDOWN_BLOCK_QUOTE">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_BLOCK_QUOTE_MARKER">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_BOLD">
@@ -1479,13 +1427,11 @@
     <option name="MARKDOWN_CODE_SPAN">
       <value>
         <option name="FOREGROUND" value="c39ac9" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_CODE_SPAN_MARKER">
       <value>
         <option name="FOREGROUND" value="696d77" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_EXPLICIT_LINK">
@@ -1551,13 +1497,11 @@
     <option name="MARKDOWN_ITALIC">
       <value>
         <option name="FOREGROUND" value="f59762" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_ITALIC_MARKER">
       <value>
         <option name="FOREGROUND" value="696d77" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_LINK_DEFINITION">
@@ -1589,7 +1533,6 @@
     <option name="MARKDOWN_LIST_MARKER">
       <value>
         <option name="FOREGROUND" value="f59762" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.ABBREVIATED_TEXT">
@@ -1606,7 +1549,6 @@
     <option name="MARKDOWN_NAVIGATOR.ABBREVIATION_EXPANDED_TEXT">
       <value>
         <option name="FOREGROUND" value="eaf2f1" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.ABBREVIATION_SHORT_TEXT">
@@ -1766,7 +1708,6 @@
     <option name="MARKDOWN_NAVIGATOR.ITALIC">
       <value>
         <option name="FOREGROUND" value="c39ac9" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.ITALIC_MARKER">
@@ -1778,7 +1719,6 @@
       <value>
         <option name="FOREGROUND" value="c39ac9" />
         <option name="BACKGROUND" value="3a3d4b" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1803,7 +1743,6 @@
     <option name="MARKDOWN_NAVIGATOR.JEKYLL_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ff657a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.JEKYLL_TAG_PARAMETERS">
@@ -1981,7 +1920,6 @@
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_ITALIC_TEXT">
       <value>
         <option name="FOREGROUND" value="7867e7" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="c39ac9" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -1990,7 +1928,6 @@
       <value>
         <option name="FOREGROUND" value="7867e7" />
         <option name="BACKGROUND" value="3a3d4b" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="c39ac9" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -2056,7 +1993,6 @@
       <value>
         <option name="FOREGROUND" value="c39ac9" />
         <option name="BACKGROUND" value="3a3d4b" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT">
@@ -2089,7 +2025,6 @@
       <value>
         <option name="FOREGROUND" value="7867e7" />
         <option name="BACKGROUND" value="3a3d4b" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="c39ac9" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -2117,7 +2052,6 @@
       <value>
         <option name="FOREGROUND" value="c39ac9" />
         <option name="BACKGROUND" value="3a3d4b" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_STRIKETHROUGH_TEXT">
@@ -2150,7 +2084,6 @@
       <value>
         <option name="FOREGROUND" value="7867e7" />
         <option name="BACKGROUND" value="3a3d4b" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="c39ac9" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -2173,7 +2106,6 @@
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_ITALIC_TEXT">
       <value>
         <option name="FOREGROUND" value="c39ac9" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT">
@@ -2202,7 +2134,6 @@
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_ITALIC_TEXT">
       <value>
         <option name="FOREGROUND" value="7867e7" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="c39ac9" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -2225,7 +2156,6 @@
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_ITALIC_TEXT">
       <value>
         <option name="FOREGROUND" value="c39ac9" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_STRIKETHROUGH_TEXT">
@@ -2254,7 +2184,6 @@
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_STRIKETHROUGH_TEXT_ITALIC_TEXT">
       <value>
         <option name="FOREGROUND" value="7867e7" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="c39ac9" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -2277,7 +2206,6 @@
       <value>
         <option name="FOREGROUND" value="c39ac9" />
         <option name="BACKGROUND" value="3a3d4b" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT">
@@ -2310,7 +2238,6 @@
       <value>
         <option name="FOREGROUND" value="7867e7" />
         <option name="BACKGROUND" value="3a3d4b" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="c39ac9" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -2333,7 +2260,6 @@
       <value>
         <option name="FOREGROUND" value="c39ac9" />
         <option name="BACKGROUND" value="3a3d4b" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_STRIKETHROUGH_TEXT">
@@ -2366,7 +2292,6 @@
       <value>
         <option name="FOREGROUND" value="7867e7" />
         <option name="BACKGROUND" value="3a3d4b" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="c39ac9" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -2386,7 +2311,6 @@
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_ITALIC_TEXT">
       <value>
         <option name="FOREGROUND" value="c39ac9" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT">
@@ -2415,7 +2339,6 @@
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_ITALIC_TEXT">
       <value>
         <option name="FOREGROUND" value="7867e7" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="c39ac9" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -2435,7 +2358,6 @@
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_ITALIC_TEXT">
       <value>
         <option name="FOREGROUND" value="c39ac9" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_STRIKETHROUGH_TEXT">
@@ -2464,7 +2386,6 @@
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_STRIKETHROUGH_TEXT_ITALIC_TEXT">
       <value>
         <option name="FOREGROUND" value="7867e7" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="c39ac9" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -2496,7 +2417,6 @@
     <option name="MARKDOWN_NAVIGATOR.TOC">
       <value>
         <option name="FOREGROUND" value="ff657a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TOC_MARKER">
@@ -2507,7 +2427,6 @@
     <option name="MARKDOWN_NAVIGATOR.TOC_OPTION">
       <value>
         <option name="FOREGROUND" value="f59762" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.UNDERLINE">
@@ -2530,7 +2449,6 @@
     <option name="MARKDOWN_NAVIGATOR.VERBATIM_LANG">
       <value>
         <option name="FOREGROUND" value="f59762" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.VERBATIM_MARKER">
@@ -2658,7 +2576,6 @@
     <option name="OC.MACRO_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f59762" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="OC.OVERLOADED_OPERATOR">
@@ -2681,13 +2598,11 @@
     <option name="OC.PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="OC.SELFSUPERTHIS">
       <value>
         <option name="FOREGROUND" value="c1c0c0" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="OC.STRUCT_FIELD">
@@ -2703,19 +2618,16 @@
     <option name="OC.TYPEDEF">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP.FUNCTION">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP.THIS_SELF">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_ALIAS_REFERENCE">
@@ -2769,13 +2681,11 @@
     <option name="PHP_INTERFACE">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff657a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_NUMBER">
@@ -2786,13 +2696,11 @@
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f59762" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_PREDEFINED SYMBOL">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
@@ -2803,19 +2711,16 @@
     <option name="PHP_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="eaf2f1" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="f59762" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_VAR">
@@ -2826,7 +2731,6 @@
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="c39ac9" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PROTOCOL_REFERENCE">
@@ -2837,7 +2741,6 @@
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.DECORATOR">
@@ -2853,25 +2756,21 @@
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="f59762" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.PREDEFINED_USAGE">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="c1c0c0" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.STRING">
@@ -2909,7 +2808,6 @@
     <option name="RDOC_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff657a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RDOC_URL">
@@ -2947,7 +2845,6 @@
     <option name="RHTML_OMIT_NEW_LINE_ID">
       <value>
         <option name="FOREGROUND" value="f59762" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RHTML_SCRIPTLET_END_ID">
@@ -2994,7 +2891,6 @@
     <option name="RUBY_COMMENT">
       <value>
         <option name="FOREGROUND" value="696d77" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_CONSTANT">
@@ -3010,7 +2906,6 @@
     <option name="RUBY_CVAR">
       <value>
         <option name="FOREGROUND" value="c39ac9" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_ESCAPE_SEQUENCE">
@@ -3070,7 +2965,6 @@
     <option name="RUBY_NTH_REF">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_NUMBER">
@@ -3081,13 +2975,11 @@
     <option name="RUBY_PARAMDEF_CALL">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_PARAMETER_ID">
       <value>
         <option name="FOREGROUND" value="f59762" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_REGEXP">
@@ -3099,7 +2991,6 @@
     <option name="RUBY_SPECIFIC_CALL">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_SYMBOL">
@@ -3120,7 +3011,6 @@
     <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_ATTRIBUTE_VALUE">
@@ -3131,13 +3021,11 @@
     <option name="ReSharper.ASP_NET_COMMENT">
       <value>
         <option name="FOREGROUND" value="696d77" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_DIRECTIVE_NAME">
       <value>
         <option name="FOREGROUND" value="ff657a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_ENTITY_REFERENCE">
@@ -3148,7 +3036,6 @@
     <option name="ReSharper.ASP_NET_MVC_ACTION">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -3179,7 +3066,6 @@
     <option name="ReSharper.ASP_NET_RAZOR_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_RAZOR_ATTRIBUTE_VALUE">
@@ -3195,7 +3081,6 @@
     <option name="ReSharper.ASP_NET_RAZOR_COMMENT">
       <value>
         <option name="FOREGROUND" value="696d77" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_RAZOR_ENTITY_REFERENCE">
@@ -3211,7 +3096,6 @@
     <option name="ReSharper.ASP_NET_RUN_AT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_TAG_NAME">
@@ -3299,7 +3183,6 @@
     <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="ReSharper.STRUCT_IDENTIFIER">
@@ -3317,7 +3200,6 @@
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SASS_VARIABLE">
@@ -3333,13 +3215,11 @@
     <option name="SLIM_CLASS">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SLIM_TAG_ATTR_KEY">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SMARTY_BACKGROUND">
@@ -3424,7 +3304,6 @@
     <option name="Scala Mutable Collection">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="c39ac9" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -3432,13 +3311,11 @@
     <option name="Scala Predefined types">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="StandardF Java Collection">
       <value>
         <option name="FOREGROUND" value="bad761" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Static property reference ID">
@@ -3483,13 +3360,11 @@
     <option name="TS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="ffd76d" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TS.PRIVATE_PUBLIC">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TS.TYPE_GUARD">
@@ -3520,7 +3395,6 @@
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9cd1bb" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TYPO">
