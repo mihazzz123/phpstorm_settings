@@ -5,8 +5,9 @@
     <option name="newTranslationDialogX" value="788" />
     <option name="newTranslationDialogY" value="470" />
     <histories>
-      <item value=" package &quot;vue-gallery-slideshow&quot;. The package may have incorrect main/module/exports specified in its package.json.&#10;" />
-      <item value="Assignment patterns must be on the left side of assignment" />
+      <item value="produces" />
+      <item value="consumes" />
+      <item value="definitions" />
       <item value="code ERESOLVE&#10;npm ERR! ERESOLVE unable to resolve dependency tree&#10;" />
       <item value="Result: Server is unwilling to perform (53)&#10;Additional info: user must change own password&#10;" />
       <item value="Using configuration from /usr/lib/ssl/openssl.cnf&#10;Check that the request matches the signature&#10;Signature ok&#10;The commonName field needed to be supplied and was missing&#10;" />
@@ -54,12 +55,12 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="5" />
-        <entry key="RUSSIAN" value="34" />
+        <entry key="RUSSIAN" value="36" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645554833927" />
+    <option name="lastTrimTime" value="1644819174577" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />

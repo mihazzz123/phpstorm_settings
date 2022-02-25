@@ -3,7 +3,7 @@
     <property name="created">2021-09-03T12:02:27</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-09-03T13:36:33</property>
+    <property name="modified">2022-02-14T17:05:35</property>
     <property name="originalScheme">Cyan light</property>
   </metaInfo>
   <colors>
@@ -170,6 +170,31 @@
         <option name="FOREGROUND" value="185b9e" />
         <option name="EFFECT_COLOR" value="185b9e" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="f4f4e1" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="e4f4e9" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="f4e5f8" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="def2f6" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="d0b3b6" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
