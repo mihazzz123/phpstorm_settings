@@ -12,6 +12,7 @@
       <sshConfig authType="PASSWORD" host="194.58.103.3" id="96e7a55a-f8a0-48e7-98ae-6f1a2a1994e2" port="22" customName="SDI" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
         <option name="customName" value="SDI" />
       </sshConfig>
+      <sshConfig host="localhost" id="5bd3ab45-efa0-450c-a503-e4e85e38a71f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
