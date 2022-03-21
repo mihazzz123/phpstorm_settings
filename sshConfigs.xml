@@ -1,0 +1,18 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="mihazzzold-dev.elewise.local" id="49a2e5e6-8f7d-4da4-be49-c8a9ae1bcf29" port="22" customName="ELMA_VM" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="ELMA_VM" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="gitint.sale.elewise.com" id="d30a12d6-0524-476f-bd67-6f2536dda07f" port="22" customName="gitint.elewise.local" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="gitint.elewise.local" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.56.10" id="de201a46-a6ff-41b5-a9a9-a6ad004c936d" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="194.58.104.117" id="bcf68f2e-0fd8-47e0-aefa-3a770838ce3b" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="194.58.103.3" id="96e7a55a-f8a0-48e7-98ae-6f1a2a1994e2" port="22" customName="SDI" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="SDI" />
+      </sshConfig>
+      <sshConfig host="localhost" id="5bd3ab45-efa0-450c-a503-e4e85e38a71f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
